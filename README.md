@@ -49,4 +49,6 @@ Download the file to view a test run of the Prototype model.
 The report contains detailed results, including model performance metrics such as accuracy, precision, recall, and F1-score for each AI architecture.
 Comparative insights are provided to identify the most effective approach for embryo classification.
 
-**Contact** me (Salma) for any queries or discussions related to the project at salmajavidkhan@gmail.com.
+**Contact** me (Salma) for any queries or discussions related to the project:
+- University of South Wales Email ID: 30107961@students.southwales.ac.uk
+- Personal Email: salmajavidkhan@gmail.com.
