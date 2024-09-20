@@ -44,6 +44,9 @@ Open the Google_Colab_Code.ipynb file in Google Colab.
 Ensure you have the required libraries (TensorFlow, scikit-learn, etc.) installed.
 Run the notebook to train and evaluate the models.
 
+**Video: Prototype Test Run:**
+Download the file to view a test run of the Prototype model.
+
 **Results and Findings:**
 The report contains detailed results, including model performance metrics such as accuracy, precision, recall, and F1-score for each AI architecture.
 Comparative insights are provided to identify the most effective approach for embryo classification.
