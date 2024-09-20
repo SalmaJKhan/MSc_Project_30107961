@@ -14,8 +14,8 @@ This includes the preprocessing steps, model implementations, and comparisons be
 The detailed report of the project is available in the Report.pdf file.
 It covers the methodology, data analysis, results, and key findings from the comparative study of the AI architectures.
 
-**3. Prototype Video**
-A video demonstration of the working prototype can be found in the Prototype_Demo.mp4 file.
+**3. Prototype Test Run [Video]**
+A video demonstration of the working prototype can be found in the Prototype Test Run.mp4 file.
 This showcases how the AI tool classifies embryo images and the user interface for interacting with the system.
 
 **4. PPT Presentation for VIVA**
@@ -39,10 +39,8 @@ The VIVA_Presentation.pptx file contains the PowerPoint slides for the project's
 The dataset consists of 2,445 static images of human blastocysts (day 5 embryos) in PNG format, clinically annotated to classify embryos into "silver" and "gold" standards.
 
 **How to Run the Code:**
-Clone this repository.
-Open the Google_Colab_Code.ipynb file in Google Colab.
-Ensure you have the required libraries (TensorFlow, scikit-learn, etc.) installed.
-Run the notebook to train and evaluate the models.
+- Open the Google_Colab_Code.ipynb file in Google Colab.
+- Run all codes to train and evaluate the models.
 
 **Video: Prototype Test Run:**
 Download the file to view a test run of the Prototype model.
